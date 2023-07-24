@@ -1,5 +1,5 @@
 # Binary-Image-Classification-using-CNN
-Program Outline:
+Program Outline:    
 The Binary Image Classification is a computer vision project aiming to build a machine-learning model to classify images into two distinct classes.
 With the help of the effective use of Neural Networks (Deep Learning Models), binary classification problems can be solved fairly.
 For this project, I use Convolution Neural Network(CNN). It is a class of Neural networks that have proven very effective in areas of image recognition, processing,
