@@ -8,6 +8,9 @@ We use Food101 dataset for this project. It is a collection of 101 different cat
 For each class, 250 manually reviewed test images are provided as well as 750 training images. In this project, I use two of the categories, pizza and steak, and 
 build a binary image classifier using CNN.
 Program Structure:
-1. Data Collection and Preprocessing
-   Obtain a dataset of binary-labeled images. Here data preparation and preprocessing steps such as, moving the images into different subset folders, have been done
+1. Data Collection and Preprocessing-->
+   Obtain a dataset of binary labelled images. Here data preparation and preprocessing steps such as , moving the images into different subset folders, have been done
    in the dataset.
+2. Exploratory Data Analysis-->
+   Perform data exploration to understand the characteristics of the dataset. The file has been divided into train set and test set. The train set contains all of the images in the training dataset with subdirectories each named after a certain class containing images of that class. The test set also has a same struture as that of train set. Visualizing some sample random images from each class to gain insights into the data. Here we find that  we have a collection of 750 training images and 250 testing images of pizza and steak in this dataset.
+3. 
