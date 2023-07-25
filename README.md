@@ -30,5 +30,5 @@ Program Structure:
 5. Evaluate the model --> Evaluate the model on the testing data to measure its accuracy and other relevant metrics. 
 6. Model Optimization-->If the model performance is not satisfactory, consider strategies for model optimization, such as data augmentation, transfer learning, or regularization techniques.
 Data Augmentation was done to prevent overfitting of the model. Data augmentation is the process of altering our training data, leading to it having more diversity and in turn, allowing the model to learn more generalizable patterns. Altering might mean adjusting the rotation of an image, flipping it or cropping it. Data augmentation is usually only performed on the training data.
-7. Conclusion--> Acheived 76% accuracy on data.
+
 
